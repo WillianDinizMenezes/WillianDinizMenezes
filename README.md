@@ -34,33 +34,32 @@ Projeto prático de implementação de cultura DevOps, focando no ciclo completo
 ### ☁️ [Infraestrutura AWS - Web Hosting Serverless](https://github.com/WillianDinizMenezes)
 Arquitetura de alta disponibilidade e baixo custo para hospedagem de aplicações.
 - **Serviços:** Amazon S3, CloudFront (CDN) e Route 53.
-- **Resultado:** Entrega de conteúdo com baixa latência global e escalabilidade automática.
-
----
-
-## ☕ Projetos Java (Backend)
-
-* **[Conversor de Moedas](https://github.com/WillianDinizMenezes/projeto-conversor-de-moedas):** Integração com API REST externa, persistência em JSON e logs de operações. Foco em POO e tratamento de exceções.
-* **[Sistema de Consulta de CEP](https://github.com/WillianDinizMenezes/consumo-de-api-java):** Arquitetura em camadas para consumo da API ViaCEP, utilizando **HttpClient** e **Gson**.
 
 ---
 
 ## 🎓 Formação & Certificações
 
-* **AWS Cloud - Programa Re/Start** (Conclusão: Março/2026)
-* **Bacharelado em Administração** – Estácio de Sá (Conclusão: Junho/2026)
-* **Oracle Next Education (ONE)** – Especialização em Java e Spring Boot (Conclusão: Março/2026)
+* **AWS Cloud - Programa Re/Start** (Março/2026)
+* **Bacharelado em Administração** – Estácio de Sá (Junho/2026)
+* **Oracle Next Education (ONE)** – Java e Spring Boot (Março/2026)
 
 ---
 
-## 🌱 Objetivos e Contato
+## 📫 Conecte-se Comigo
 
-Estou em busca de oportunidades como **Analista de Cloud (Júnior)**, **DevOps Engineer** ou **Desenvolvedor Backend**. Acredito que a tecnologia deve servir ao negócio, e trago minha experiência em gestão para otimizar processos técnicos.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-diniz-2360b74b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williandiniz2412@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillianDinizMenezes)
+<a href="https://www.linkedin.com/in/willian-diniz-2360b74b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:williandiniz2412@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://github.com/WillianDinizMenezes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WillianDinizMenezes&show_icons=true&theme=dracula)
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianDinizMenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDinizMenezes&layout=compact&theme=dracula" />
+</div>
+
+---
+
+> "A nuvem não é apenas sobre onde você hospeda seus dados, mas sobre como você escala sua visão e automatiza sua eficiência."
