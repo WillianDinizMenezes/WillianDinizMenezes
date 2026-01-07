@@ -41,6 +41,20 @@ Arquitetura de alta disponibilidade e baixo custo utilizando Amazon S3, CloudFro
 
 ---
 
+## ☕ Projetos Java (Backend)
+
+### 💱 [Conversor de Moedas](https://github.com/WillianDinizMenezes/projeto-conversor-de-moedas)
+Integração com API REST externa, persistência em JSON e logs de operações.
+- **Destaque:** Foco em POO e tratamento de exceções
+- **Tecnologias:** Java, API REST, JSON, Programação Orientada a Objetos
+
+### 📮 [Sistema de Consulta de CEP](https://github.com/WillianDinizMenezes/consumo-de-api-java)
+Arquitetura em camadas para consumo da API ViaCEP.
+- **Destaque:** Utilização de **HttpClient** e **Gson** para consumo de APIs
+- **Tecnologias:** Java, HttpClient, Gson, API ViaCEP, Arquitetura em Camadas
+
+---
+
 ## 🎓 Formação & Certificações
 
 ### **Certificações em Andamento**
@@ -91,7 +105,7 @@ Buscando oportunidades como **Cloud Engineer Junior** ou **DevOps Engineer Junio
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WillianDinizMenezes&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=WillianDinizMenezes&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
