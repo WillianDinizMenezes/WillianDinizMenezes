@@ -69,7 +69,7 @@ Sistema CLI para consulta de endereços via API ViaCEP com arquitetura em camada
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-diniz-2360b74b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SBEWill)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/SBEWill](https://github.com/WillianDinizMenezes/WillianDinizMenezes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williandiniz2412@hotmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WillDiniz07)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/will3830)
@@ -78,7 +78,7 @@ Sistema CLI para consulta de endereços via API ViaCEP com arquitetura em camada
 
 ## 📊 GitHub Stats
 
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBEWill&show_icons=true&theme=dracula)
+![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianDinizMenezes&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBEWill&layout=compact&theme=dracula)
 
 ---
