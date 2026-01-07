@@ -5,6 +5,8 @@
 
 Sou um profissional em transição de carreira com sólida base em gestão (5 anos) e foco total em tecnologia. Especialista em infraestrutura **AWS**, utilizo **Java/Spring Boot** para construir o backend e ferramentas como **Docker**, **Kubernetes** e **Linux** para garantir deploys eficientes e seguros.
 
+🎯 **Atualmente:** Preparando para certificação **AWS Certified Cloud Practitioner** (Prova agendada para Fevereiro/2026)
+
 ---
 
 ## 🛠️ Stack Técnica
@@ -30,17 +32,43 @@ Sou um profissional em transição de carreira com sólida base em gestão (5 an
 Projeto prático de implementação de cultura DevOps, focando no ciclo completo de entrega.
 - **Destaque:** Containerização de aplicação web com **Docker** (imagem otimizada com Alpine Linux) e deploy manual em instâncias **Amazon EC2**.
 - **Infraestrutura:** Uso de **Amazon ECR**, **Security Groups**, **IAM Roles** e **AWS CLI**.
+- **Tecnologias:** Docker, AWS EC2, ECR, Nginx, Linux
 
 ### ☁️ [Infraestrutura AWS - Web Hosting Serverless](https://github.com/WillianDinizMenezes)
 Arquitetura de alta disponibilidade e baixo custo utilizando Amazon S3, CloudFront (CDN) e Route 53.
+- **Destaque:** Implementação de site estático com distribuição global via CDN
+- **Tecnologias:** Amazon S3, CloudFront, Route 53, AWS CLI
 
 ---
 
 ## 🎓 Formação & Certificações
 
+### **Certificações em Andamento**
+* 📌 **AWS Certified Cloud Practitioner** – Prova agendada para Fevereiro/2026
+
+### **Formação Acadêmica**
 * **AWS Cloud - Programa Re/Start** (Conclusão: Março/2026)
 * **Bacharelado em Administração** – Estácio de Sá (Conclusão: Junho/2026)
 * **Oracle Next Education (ONE)** – Java e Spring Boot (Conclusão: Março/2026)
+
+---
+
+## 📚 Atualmente Estudando
+
+- ☁️ **AWS Certified Cloud Practitioner** - Preparação intensiva para certificação
+- 🔧 **Terraform** - Infrastructure as Code (IaC)
+- 🔄 **CI/CD** - Automação de pipelines com GitHub Actions
+- 🐳 **Docker & Kubernetes** - Orquestração de containers em produção
+
+---
+
+## 💼 Objetivo Profissional
+
+Buscando oportunidades como **Cloud Engineer Junior** ou **DevOps Engineer Junior** para aplicar conhecimentos em:
+- Arquitetura e serviços AWS
+- Containerização e orquestração (Docker/Kubernetes)
+- Automação de infraestrutura e deploys
+- Desenvolvimento backend com Java/Spring Boot
 
 ---
 
