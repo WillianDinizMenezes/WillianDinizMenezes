@@ -1,87 +1,66 @@
-# Olá! Eu sou o Willian Diniz 👋
+# Olá, eu sou o Willian Diniz 👋
 
-## 💻 Desenvolvedor Backend em Formação
+## ☁️ Analista de Nuvem & Desenvolvedor Backend Java
+**Focado em Arquitetura AWS, Cultura DevOps e Soluções Escaláveis.**
 
-Estou em transição de carreira para a área de desenvolvimento, com foco em **Backend Java** e construção de APIs REST robustas e escaláveis. Atualmente, estou consolidando conhecimentos através de projetos práticos e buscando minha primeira oportunidade profissional na área.
+Sou um profissional em transição de carreira com sólida base em gestão (5 anos) e foco total em tecnologia. Especialista em infraestrutura **AWS**, utilizo **Java/Spring Boot** para construir o backend e ferramentas como **Docker**, **Kubernetes** e **Linux** para garantir deploys eficientes e seguros.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🛠️ Stack Técnica
 
-**Backend:**
+### **Cloud & DevOps (Foco Principal)**
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### **Desenvolvimento Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Cloud & DevOps:**
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-**Frontend (Conhecimentos Básicos):**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🚀 Projetos em Destaque (Cloud & DevOps)
 
-### 🔄 [Conversor de Moedas](https://github.com/SBEWill/projeto-conversor-de-moedas)
-Aplicação CLI em Java que realiza conversões entre moedas utilizando API externa para taxas de câmbio em tempo real.
-- **Diferenciais:** Histórico persistente em JSON, sistema de logs, tratamento robusto de exceções
-- **Conceitos aplicados:** POO, manipulação de arquivos, consumo de APIs HTTP, Collections
-- **Desafio:** Programa ONE (Oracle + Alura)
+### 🐳 [Laboratório DevOps - Containerização e Deploy AWS](https://github.com/WillianDinizMenezes/Laboratorio-devops)
+Projeto prático de implementação de cultura DevOps, focando no ciclo completo de entrega.
+- **Destaque:** Containerização de aplicação web com **Docker** (imagem otimizada com Alpine Linux) e deploy manual em instâncias **Amazon EC2**.
+- **Infraestrutura:** Uso de **Amazon ECR** como registry, configuração de **Security Groups**, **IAM Roles** e gerenciamento via **AWS CLI**.
 
-### 📚 [Sistema de Biblioteca](https://github.com/SBEWill/sistema-de-cadastro-biblioteca-simples-java)
-Simulador de operações de biblioteca via console, focado em arquitetura orientada a objetos.
-- **Funcionalidades:** Gerenciamento de empréstimos e devoluções, controle de disponibilidade
-- **Conceitos aplicados:** POO (Encapsulamento, Herança, Polimorfismo), Design Patterns
-
-### 📍 [Consulta CEP - ViaCEP](https://github.com/SBEWill/consumo-de-api-java)
-Sistema CLI para consulta de endereços via API ViaCEP com arquitetura em camadas.
-- **Destaques:** Validação rigorosa de entrada, persistência em JSON, serialização/deserialização com Gson
-- **Conceitos aplicados:** Arquitetura em camadas, HttpClient, tratamento de erros, separação de responsabilidades
+### ☁️ [Infraestrutura AWS - Web Hosting Serverless](https://github.com/WillianDinizMenezes)
+Arquitetura de alta disponibilidade e baixo custo para hospedagem de aplicações.
+- **Serviços:** Amazon S3, CloudFront (CDN) e Route 53.
+- **Resultado:** Entrega de conteúdo com baixa latência global e escalabilidade automática.
 
 ---
 
-## 🎓 Formação & Aprendizado
+## ☕ Projetos Java (Backend)
 
-- **Cursando:** SPRING BOOT - AWS CLOUD
-- **Programa ONE:** Oracle Next Education (Alura)
-- Constantemente estudando boas práticas, design patterns e arquitetura de software
-
----
-
-## 🌱 Objetivos Atuais
-
-- 🔍 Buscar minha primeira oportunidade como Desenvolvedor Backend
-- 🤝 Construir networking com outros desenvolvedores
-- 🌐 Contribuir em projetos open source
-- 📈 Expandir conhecimentos em arquitetura de microsserviços e cloud computing
+* **[Conversor de Moedas](https://github.com/WillianDinizMenezes/projeto-conversor-de-moedas):** Integração com API REST externa, persistência em JSON e logs de operações. Foco em POO e tratamento de exceções.
+* **[Sistema de Consulta de CEP](https://github.com/WillianDinizMenezes/consumo-de-api-java):** Arquitetura em camadas para consumo da API ViaCEP, utilizando **HttpClient** e **Gson**.
 
 ---
 
-## 📫 Contato
+## 🎓 Formação & Certificações
+
+* **AWS Cloud - Programa Re/Start** (Conclusão: Março/2026)
+* **Bacharelado em Administração** – Estácio de Sá (Conclusão: Junho/2026)
+* **Oracle Next Education (ONE)** – Especialização em Java e Spring Boot (Conclusão: Março/2026)
+
+---
+
+## 🌱 Objetivos e Contato
+
+Estou em busca de oportunidades como **Analista de Cloud (Júnior)**, **DevOps Engineer** ou **Desenvolvedor Backend**. Acredito que a tecnologia deve servir ao negócio, e trago minha experiência em gestão para otimizar processos técnicos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-diniz-2360b74b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/SBEWill](https://github.com/WillianDinizMenezes/WillianDinizMenezes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williandiniz2412@hotmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WillDiniz07)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/will3830)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillianDinizMenezes)
 
 ---
 
-## 📊 GitHub Stats
-
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianDinizMenezes&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBEWill&layout=compact&theme=dracula)
-
----
-
-💡 *"Código limpo não é escrito seguindo regras. Você não se torna um artesão de software ao aprender uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores que direcionam disciplinas."* - Robert C. Martin
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WillianDinizMenezes&show_icons=true&theme=dracula)
