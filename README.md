@@ -105,8 +105,22 @@ Buscando oportunidades como **Cloud Engineer Junior** ou **DevOps Engineer Junio
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=WillianDinizMenezes&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WillianDinizMenezes&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
+
+<!--
+ALTERNATIVAS CASO NÃO FUNCIONE:
+
+Opção 2:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=WillianDinizMenezes&theme=dracula" alt="GitHub Streak" />
+</div>
+
+Opção 3:
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app?user=WillianDinizMenezes&theme=dracula" alt="GitHub Streak" />
+</div>
+-->
 
 ---
 
