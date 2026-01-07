@@ -105,7 +105,7 @@ Buscando oportunidades como **Cloud Engineer Junior** ou **DevOps Engineer Junio
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=WillianDinizMenezes&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillianDinizMenezes&theme=dracula&hide_border=true&custom_title=Contribuições%20nos%20Últimos%2012%20Meses" alt="GitHub Activity Graph" />
 </div>
 
 ---
