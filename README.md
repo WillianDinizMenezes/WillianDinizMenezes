@@ -34,11 +34,11 @@ Projeto prático de implementação de cultura DevOps, focando no ciclo completo
 - **Infraestrutura:** Uso de **Amazon ECR**, **Security Groups**, **IAM Roles** e **AWS CLI**.
 - **Tecnologias:** Docker, AWS EC2, ECR, Nginx, Linux
 
-### ☁️ [Infraestrutura AWS - Web Hosting Serverless](https://github.com/WillianDinizMenezes)
-Arquitetura de alta disponibilidade e baixo custo utilizando Amazon S3, CloudFront (CDN) e Route 53.
-- **Destaque:** Implementação de site estático com distribuição global via CDN
-- **Tecnologias:** Amazon S3, CloudFront, Route 53, AWS CLI
-
+### ☁️ [Infraestrutura Cloud Automatizada com CI/CDs](https://github.com/WillianDinizMenezes/site-pessoal-automated-cloud-infrastructure-aws-cicd/tree/main)
+Implementação de arquitetura serverless profissional na AWS utilizando Infrastructure as Code e práticas DevOps.
+- **Destaque:** Provisionamento completo via AWS CloudFormation (IaC) com pipeline de CI/CD automatizado usando CodePipeline e CodeBuild, reduzindo deploy para <2 minutos.
+- **Infraestrutura:** Configuração de CloudFront (CDN global), Route 53 (DNS), ACM (SSL/TLS), S3 (storage) e Origin Access Control para segurança enterprise.
+- **Tecnologias:** AWS CloudFormation, CodePipeline, CodeBuild, CloudFront, Route 53, S3, ACM, Git, YAML.
 ---
 
 ## ☕ Projetos Java (Backend)
